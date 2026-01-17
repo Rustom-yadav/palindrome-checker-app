@@ -1,5 +1,5 @@
-[🔴 Live Demo](https://your-live-link-here.com)
-[📦 GitHub Repository](https://github.com/your-username/palindrome-checker)
+[🔴 Live Demo](https://rustom-yadav.github.io/palindrome-checker-app/)
+[📦 GitHub Repository](https://rustom-yadav.github.io/palindrome-checker-app/)
 
 ---
 
