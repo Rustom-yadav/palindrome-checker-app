@@ -1,5 +1,5 @@
 [🔴 Live Demo](https://rustom-yadav.github.io/palindrome-checker-app/)
-[📦 GitHub Repository](https://rustom-yadav.github.io/palindrome-checker-app/)
+[📦 GitHub Repository](https://github.com/Rustom-yadav/palindrome-checker-app)
 
 ---
 
